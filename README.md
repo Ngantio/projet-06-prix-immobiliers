@@ -1,4 +1,4 @@
-# Projet 6 — Prédiction de Prix Immobiliers 🏠
+# Projet 6 — Prédiction de Prix Immobiliers 
 
 ## Contexte
 Construction d'un modèle de régression qui prédit le prix de vente d'une maison à partir de
